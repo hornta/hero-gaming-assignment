@@ -1,0 +1,17 @@
+.stopwatch-list .stopwatch-link {
+  display: flex;
+  padding: 1em 0;
+  border-bottom: 1px solid #272727;
+}
+
+.stopwatch-list .stopwatch-paused {
+  color: #757576;
+}
+
+.stopwatch-list .stopwatch-client {
+  color: #888;
+}
+
+.stopwatch-list .stopwatch-creation {
+  margin-left: auto;
+}

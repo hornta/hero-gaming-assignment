@@ -1,0 +1,19 @@
+.screen-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em 0;
+}
+
+.screen-list.screen-list-hide {
+  display: none;
+}
+
+.info-text {
+  padding: 0 2em;
+  text-align: center;
+}
+
+.info-text .info-text-with-list {
+  margin-bottom: 1em;
+}

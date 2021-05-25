@@ -1,0 +1,8 @@
+.stopwatch-list {
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding: 0 1em;
+  margin-bottom: 1em;
+}
